@@ -1,0 +1,5 @@
+{
+  "name": "AI Autonomous Navigation Simulator",
+  "description": "An industry-level simulation of an AI-based autonomous navigation system featuring A* pathfinding, obstacle detection, and real-time perception visualization.",
+  "requestFramePermissions": []
+}
